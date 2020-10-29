@@ -1,3 +1,4 @@
+/* Start of Meyers Reset */
 */
 
 html, body, div, span, applet, object, iframe,
@@ -42,4 +43,20 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+}
+/* End of Meyers Reset */
+
+h1 {
+   font-family: ; 
+}
+.button-one {
+    background-color:#FF764E;
+}
+
+.button-two {
+    background-color: #5ED3EB;
+}
+
+.button-three {
+    background-color: #FFCD69;
 }
